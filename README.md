@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 <p> 🌱 I’m currently learning JAVA + ANGULAR</h2>
 
 <hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,angular,javascript,css,html,github,python,mongodb,mysql" />
+  </a>
+</p>
+<hr>
 
 <div>
 <a href="https://github.com/BruhhPires">
