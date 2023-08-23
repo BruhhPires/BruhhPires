@@ -25,11 +25,14 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-<div>
-<a href="https://github.com/BruhhPires">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruhhPires&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruhhPires&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-</div>
+<figure>
+  <a href="https://github.com/BruhhPires">
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruhhPires&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  </a>
+  <a href="https://github.com/BruhhPires">
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=BruhhPires&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  </a>
+</figure>
 
 <hr>
 
