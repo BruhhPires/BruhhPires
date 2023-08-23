@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 <!--
 **BruhhPires/BruhhPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Olá, meu nome é Bruno Pires, atualmente estou em um transição profissional para o mundo da programação, sempre trabalhei na área de CS, CS Sales e Gestão de Pessoas</h2>
-<h2>- 🌱 I’m currently learning JAVA + ANGULAR</h2>
+<P>  Olá, meu nome é Bruno Pires, atualmente estou em um transição profissional para o mundo da programação, sempre trabalhei na área de CS, CS Sales e Gestão de Pessoas</h2>
+<p> 🌱 I’m currently learning JAVA + ANGULAR</h2>
 
 <div>
 <a href="https://www.instagram.com/ibrunopires" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<a href="https://github.com/BruhhPires/BruhhPires">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/BruhhPires">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruhhPires&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruhhPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
