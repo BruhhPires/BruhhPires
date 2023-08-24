@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,angular,javascript,css,html,github,python,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,java,angular,javascript,css,html,github,python,mongodb,mysql,virtualstudio" />
   </a>
 </p>
 <hr>
