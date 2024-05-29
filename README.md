@@ -1,6 +1,6 @@
 # Bruno Pires
 
-<P>  Olá, meu nome é Bruno Pires, sempre trabalhei na área de CS, Manager Sales e Gestão de Pessoas</h2>
+<P>  Olá, meu nome é Bruno Pires, sempre trabalhei na área de Gestão de Pessoas, Insides Sales, CS e Suport </h2>
 <p> 🌱 I’m currently learning JAVA + ANGULAR</h2>
 <br>
 <hr>
